@@ -5,5 +5,5 @@ const items = [
   { id: 4, name: "String Cheese", category: "Dairy" },
   { id: 5, name: "Cookies", category: "Dessert" },
 ];
-
+// console.log(items);
 export default items;
